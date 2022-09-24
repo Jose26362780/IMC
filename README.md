@@ -2,7 +2,7 @@
 ![preview](./.github/calculo%20imc.png)
 
 
-> Prograama Explorer 
+> Programa Explorer 
 
 Projeto construido no programa explorer da Rocketseat. 
 
